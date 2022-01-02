@@ -1,0 +1,17 @@
+.b1{
+
+    background-color: aliceblue;
+    font-family: 'Lucida Sans';
+    color: teal;
+}
+h1{
+    color: darkslategray;
+    font-family: monospace;
+}
+body{
+    background-color: rgb(218, 214, 214);
+}
+ul{
+    color: darkslategray;
+    font-family: monospace;
+}
